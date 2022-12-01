@@ -1,13 +1,13 @@
-# Templates.do - Worker Templates API 
+# CRON.do - CRON Scheduler API
 
-Explore the API at: <https://templates.do/api>
+Explore the API at: <https://cron.do/api>
 
 ```json
 {
   "api": {
     "icon": "🚀",
     "name": "templates.do",
-    "description": "Cloudflare Worker Template",
+    "description": "CRON Scheduler API",
     "url": "https://templates.do/api",
     "type": "https://apis.do/templates",
     "endpoints": {
